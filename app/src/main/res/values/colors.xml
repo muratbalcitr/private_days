@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e9ff0004</color>
+    <color name="colorPrimaryDark">#e3e60003</color>
+    <color name="colorAccent">#de0004</color>
+    <color name="selectTaslak">#ba0e0e</color>
+    <color name="messageSendColor">#f3f3f3</color>
+    <color name="mesajGonderColor">#1f6cca</color>
+    <color name="kisiSec">#219900</color>
+    <color name="kisiAdiColor">#3b0000</color>
+    <color name="kisiNumaraColor">#4d0101</color>
+    <color name="ozelGunListItem">#89004d5e</color>
+    <color name="turuncu">#b144d0e6</color>
+    <color name="datepicker">#f2f2f2</color>
+
+</resources>

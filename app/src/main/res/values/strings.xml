@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Özel Gün mesajları</string>
+    <string name="taslakSec">Taslak Seçimi için Tıklayınız</string>
+    <string name="mesajinizi_giriniz">mesajınızı giriniz</string>
+    <string name="MessageSend">Mesajı Gönder</string>
+    <string name="selectContact">Ozel Gunleriniz</string>
+    <string name="title_activity_taslaklar">Taslaklar</string>
+    <string name="ozelGuntextView">Özel günün adını giriniz</string>
+    <string name="ozelgunekleHint">Ozel gününüz adını giriniz</string>
+    <string name="btnOzelGunEkle">Ozel Gun Ekle</string>
+    <string name="delete">sil</string>
+    <string name="add">ekle</string>
+    <string name="Send">gönder</string>
+    <string name="sign_out">çıkış</string>
+</resources>

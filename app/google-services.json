@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "883948247432",
+    "firebase_url": "https://sontaxi-21de8.firebaseio.com",
+    "project_id": "sontaxi-21de8",
+    "storage_bucket": "sontaxi-21de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883948247432:android:b6b292fef4c794d3",
+        "android_client_info": {
+          "package_name": "com.murat.getallprojects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883948247432-7jkc54a2k969hbpjt88dr8uubr1l7mqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murat.getallprojects",
+            "certificate_hash": "821de66885bf77ca2c2be3aaa5271302f5d518f0"
+          }
+        },
+        {
+          "client_id": "883948247432-ddrfpmu2tg4cpchsrnt30rgsstgp9vtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murat.getallprojects",
+            "certificate_hash": "7f4aabc463cf4f4ac4afd40b01ee7400e97e28ff"
+          }
+        },
+        {
+          "client_id": "883948247432-2s6os0ajqrm6r3jjqnjjvt53c1mvrua4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZyWnQKf7tKWjdAgN7DQu9kouUOGV9cY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883948247432-2s6os0ajqrm6r3jjqnjjvt53c1mvrua4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9057596586284356~6009005822"
+    }
+  ],
+  "configuration_version": "1"
+}
